@@ -1,0 +1,177 @@
+body{
+    font-family: 'Source Serif Pro', serif;
+    margin: 0%;
+}
+.first-section{
+    margin: 20px;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 0;
+   
+}
+h2{
+font-size: 40px;
+color: rgb(253, 169, 14);
+margin-top: 0;
+}
+h6{
+    font-weight: lighter;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 55%;
+    padding-top: 5%;
+    padding-left: 15%;
+    }
+.border{
+    border-left: 3px solid yellowgreen;
+    padding-left: 10px;
+}
+.explore-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(207, 228, 166), yellowgreen);
+    font-size: 12px;
+    font-weight: 550;
+    padding: 5px 15px;
+    border-radius: 5px;
+ 
+}
+#color{
+    color: rgb(253, 169, 14);
+}
+.illustrator{
+width: 50%;
+padding-top: 5%;
+margin-right: 2%;
+}
+.illustrator img{
+    width: 50%;
+}
+.second-section{
+    margin: 20px;
+    padding-left: 5%;
+}
+.illustrator p{
+    font-size: 12px;
+}
+#mission-bg{
+    background-color: rgba(223, 251, 255, 0.829);
+    border-radius: 5%;
+    padding: 5%;
+ 
+   
+}
+#vission-bg{
+    background-color: rgba(252, 236, 250, 0.733);
+    border-radius: 5%;
+    padding: 5%;
+   
+}
+#goals-bg{
+    background-color: rgba(247, 252, 184, 0.747);
+    border-radius: 5%;
+    padding: 5%;
+   
+}
+.third-section{
+    margin: 20px;
+    padding-top: 5%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: left;
+}
+.fourth-section{
+    margin: 20px;
+    padding-top: 5%;
+    padding-bottom: 7%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 88% 84%;
+}
+.left-part-width{
+    width: 40%;
+    padding-left: 5%;
+}
+.left-part-width img{
+    width: 80%;
+}
+.right-part-width{
+    width:60%;
+   
+}
+.right-part-width h1{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.right-part-width h2{
+    font-size: 35px;
+    color: black;
+}
+#project-image img{
+    width: 60%;
+}
+.fifth-section{
+    margin: 20px;
+}
+.fifth-section h2{
+    color:black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.fifth-section p{
+    width: 70%;
+}
+form{
+    background-color: rgba(216, 255, 198, 0.801);
+    width: 60%;
+    box-shadow: 10px 10px 30px rgba(128, 128, 128, 0.685);
+}
+.inputs{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.fifth-section{
+    background-image: url(images/shapes/shape-9.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position:left bottom;
+}
+footer{
+    margin-top: 10%;
+    background-color: black;
+    height: 100px;
+}
+footer h3{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    padding-top:2%;
+    text-align: center;
+}
+#year{
+color: red;
+}
+footer p{
+    color: white;
+    font-size: 10px;
+    font-weight: 40;
+    text-align: center;
+}
+
